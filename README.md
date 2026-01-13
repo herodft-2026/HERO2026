@@ -55,6 +55,8 @@ Defines the percentage of atoms to be tuned in the Hessian matrix in the "Hessia
 "Hessian engineering" step: defines the the values set to the Hessian matrix for the selected atoms.
 
 ===========================================================================
+![Uploading image.png…]()
+
 
 Important notes:
 Before you use it for publication, please ask for the permission from Prof. Hao Li (Email: li.hao.b8@tohoku.ac.jp) or Prof. Weijie Yang (Email: yangwj@ncepu.edu.cn)
