@@ -25,7 +25,7 @@ Prof. Hao Li, WPI-AIMR
 ===========================================================================
 
 With stable performance:
-python 3.7.7
+python 3.7.7/python3.10
 vasp 5.4.4
 
 Requirements:
